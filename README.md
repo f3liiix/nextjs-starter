@@ -1,6 +1,6 @@
 # Next.js Starter Template
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app), enhanced with modern tools and libraries to help developers quickly start Next.js development.
+This is a [Next.js](https://nextjs.org) project starter, enhanced with modern tools and libraries to help developers quickly start Next.js development.
 
 ## Features
 
@@ -13,7 +13,8 @@ This starter template comes with several key features to accelerate your develop
 
 ## Getting Started
 
-First, run the development server:
+First, Click `Use this template` to create your own repository,
+then run the development server:
 
 ```bash
 npm run dev
