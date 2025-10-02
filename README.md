@@ -9,7 +9,7 @@ This starter template comes with several key features to accelerate your develop
 1. **Integrated UI Components**: Pre-configured with [Shadcn UI](https://ui.shadcn.com/), [Tailwind CSS](https://tailwindcss.com/), and [Lucide Icons](https://lucide.dev/) for beautiful, responsive UI components.
 2. **Light/Dark Mode**: Integrated with [next-themes](https://github.com/pacocoursey/next-themes) for seamless theme switching.
 3. **Local Fonts**: Uses locally hosted Inter fonts to avoid slow loading from Google Fonts, especially beneficial for regions with limited access to Google services.
-4. **Code Formatting**: Pre-configured with [Prettier](https://prettier.io/) to ensure clean and consistent code style across the project.
+4. **Code Formatting**: Uses [Biome](https://biomejs.dev/) for fast, consistent formatting and linting commands out of the box.
 
 ## Getting Started
 
@@ -17,8 +17,6 @@ First, Click `Use this template` to create your own repository,
 then run the development server:
 
 ```bash
-npm run dev
-# or
 pnpm dev
 ```
 
